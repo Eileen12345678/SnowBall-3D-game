@@ -23,7 +23,7 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-3. Ensure that Solution Explorer is visible (View / Solution Explorer). In the Solution Explorer, select Projet1 -> Project1 (the project name) and right click it.  Choose Add / New Filter.  A new folder icon should appear in the Solution Explorer.  Name it ObjLibrary.  (This creates an imaginary folder in the project, but it does not create a Windows folder on the computer).
+3. Ensure that Solution Explorer is visible (View / Solution Explorer). In the Solution Explorer, select All Other Files and right-click it.  Choose Add / New Filter.  A new folder icon should appear in the Solution Explorer.  Name it ObjLibrary.  (This creates an imaginary folder in the project, but it does not create a Windows folder on the computer).
 
 
 ---------------------------------------------------------------------------------------------------------------
